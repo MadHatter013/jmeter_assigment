@@ -1,0 +1,22 @@
+2023-12-19 18:11:01,452 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: Version 5.6.2
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: java.version=1.8.0_231
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) Client VM
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: os.name=Windows 10
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: os.arch=x86
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: os.version=10.0
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: file.encoding=Cp1252
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: java.awt.headless=null
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: Max memory     =259522560
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: Available Processors =8
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: Default Locale=English (United States)
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: JMeterHome=C:\Users\Mykhailo_Korzh\IdeaProjects\Jmeter_assigment\apache-jmeter-5.6.2
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: user.dir  =C:\Users\Mykhailo_Korzh\IdeaProjects\Jmeter_assigment\apache-jmeter-5.6.2\bin
+2023-12-19 18:11:01,467 INFO o.a.j.JMeter: PWD       =C:\Users\Mykhailo_Korzh\IdeaProjects\Jmeter_assigment\apache-jmeter-5.6.2\bin
+2023-12-19 18:11:01,483 INFO o.a.j.JMeter: IP: 192.168.3.45 Name: EPUAKHAW01F3 FullName: EPUAKHAW01F3
+2023-12-19 18:11:01,499 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-12-19 18:11:01,657 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
