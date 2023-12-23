@@ -1,0 +1,1 @@
+java -jar apache-jmeter-5.6.2/bin/ApacheJMeter.jar -n -f -t Aggregate_Report.jmx -l ./result.jtl -e -o ./report
